@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/IDAGIO/idagio-cookie-middleware#readme",
   "dependencies": {
-    "cookie": "^0.2.3",
+    "cookie": "^0.4.1",
     "is-secure": "^1.0.0",
     "on-headers": "^1.0.1"
   }
